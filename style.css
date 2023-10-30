@@ -1,0 +1,30 @@
+body {background-color: black;}
+
+h1 {color: aliceblue;}
+h2 {color: blue;}
+h3 {color: cadetblue;}
+
+#capa {width: 40%;}
+#onze {width: 25%;}
+#doze {width: 25%;}
+#treze {width: 25%;}
+#quatorze {width: 25%;}
+#quinze {width: 25%;}
+#capadois {width: 60%;}
+
+#capa {margin-left: 34% ;}
+#onze {margin-left: 37%;}
+#doze {margin-left: 37%;}
+#treze {margin-left: 37%;}
+#quatorze {margin-left: 37%;}
+#quinze {margin-left: 37%;}
+#capadois {margin-left: 24%;}
+
+h1 {text-align: center;}
+h2 {text-align: center;}
+h3 {text-align: center;}
+
+
+h1 {font-size: 250%;}
+h2 {font-size: 190%;}
+h3 {font-size: 100%;}
